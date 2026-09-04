@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>@ella_official</title>
+<meta name="description" content="한국 ↔ 태국 크로스보더 셀렉트샵 / ร้านคัดสรรครอสบอร์เดอร์ เกาหลี ↔ ไทย">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&family=Jost:wght@400;500&family=Noto+Sans+KR:wght@400;500&family=Noto+Sans+Thai:wght@400;500&display=swap">
+<style>
+  :root { --cream:#f6f1ea; --card:#fffdfa; --ink:#2e2a26; --terra:#b5715e;
+           --muted:#8a7d6e; --line:#e6dccf; }
+  * { box-sizing:border-box; margin:0; }
+  body { background:var(--cream); color:var(--ink);
+         font-family:'Jost','Noto Sans KR','Noto Sans Thai','Helvetica Neue',Arial,sans-serif;
+         min-height:100vh; display:flex; justify-content:center; padding:44px 18px 34px; -webkit-font-smoothing:antialiased; }
+  main { width:100%; max-width:440px; }
+  .banner { width:100%; display:block; border-radius:16px; }
+  .handle { text-align:center; font-size:14px; letter-spacing:3px; color:var(--ink); margin-top:16px; }
+  .rule { width:48px; height:1px; background:var(--terra); margin:12px auto 16px; }
+  .bio { text-align:center; font-size:14px; letter-spacing:1px; }
+  .bio .th { display:block; margin-top:5px; color:var(--muted); font-size:12.5px; }
+  .sub { text-align:center; font-size:11px; letter-spacing:.5px; color:var(--muted); margin-top:12px; line-height:1.7; }
+  .sub .th { display:block; }
+  .grp { margin-top:34px; }
+  .grp-head { display:flex; flex-direction:column; align-items:center; gap:8px; margin-bottom:16px; }
+  .badge { font-size:10.5px; letter-spacing:2px; color:var(--terra); border:1px solid var(--terra);
+           border-radius:999px; padding:4px 12px; }
+  .grp-title { text-align:center; font-size:13px; letter-spacing:2px; color:var(--ink); line-height:1.6; }
+  .grp-title-th { font-size:11px; letter-spacing:.5px; color:var(--muted); }
+  .links { display:flex; flex-direction:column; gap:11px; }
+  .btn { display:flex; align-items:center; gap:14px; text-decoration:none; color:var(--ink);
+         background:var(--card); border:1px solid var(--line); border-radius:14px;
+         padding:15px 16px; transition:border-color .15s, transform .05s; position:relative; }
+  .btn:hover { border-color:var(--terra); }
+  .btn:active { transform:scale(.99); }
+  .btn .ic { font-size:19px; flex-shrink:0; width:22px; text-align:center; }
+  .btn .txt { display:flex; flex-direction:column; gap:2px; min-width:0; }
+  .btn .p { font-size:14px; letter-spacing:.3px; }
+  .btn .s { font-size:11.5px; color:var(--muted); }
+  .btn.soon { opacity:.55; cursor:default; }
+  .btn.soon .txt { padding-right:42px; }
+  .btn .tag { position:absolute; right:14px; top:50%; transform:translateY(-50%);
+             font-size:9px; letter-spacing:1px; color:var(--muted); border:1px solid var(--line);
+             border-radius:999px; padding:2px 7px; }
+  footer { margin-top:34px; display:flex; flex-direction:column; align-items:center; gap:14px; }
+  .ig { color:var(--muted); } .ig:hover { color:var(--terra); }
+  .credit { font-size:9.5px; letter-spacing:3px; color:var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <img class="banner" src="banner.png" alt="ELLA OFFICIAL">
+  <div class="handle">@ella_official</div>
+  <div class="rule"></div>
+  <div class="bio">한국 ↔ 태국 크로스보더 셀렉트샵<span class="th">ร้านคัดสรรครอสบอร์เดอร์ เกาหลี ↔ ไทย</span></div>
+  <div class="sub">태국 손님은 한국 상품을, 한국 손님은 태국 상품을<span class="th">ลูกค้าไทยช้อปสินค้าเกาหลี · ลูกค้าเกาหลีช้อปสินค้าไทย</span></div>
+  <section class="grp">
+  <div class="grp-head"><span class="badge">태국 손님 · ลูกค้าไทย</span><span class="grp-title">한국 상품 · 태국으로 배송<br><span class="grp-title-th">สินค้าเกาหลี · จัดส่งไปไทย</span></span></div>
+  <div class="links">
+      <span class="btn soon" title="준비 중 / เร็ว ๆ นี้"><span class="ic">🏃</span><span class="txt"><span class="p">เสื้อผ้าวิ่ง · แอคเซสเซอรี่ · ชุดชั้นใน (โยคะ · ยิม)</span><span class="s">러닝 의류 · 액세서리 · 이너웨어 (요가 · 짐)</span></span><span class="tag">soon</span></span>
+      <span class="btn soon" title="준비 중 / เร็ว ๆ นี้"><span class="ic">💄</span><span class="txt"><span class="p">บิวตี้เกาหลี</span><span class="s">코리아 뷰티</span></span><span class="tag">soon</span></span>
+      <span class="btn soon" title="준비 중 / เร็ว ๆ นี้"><span class="ic">🧺</span><span class="txt"><span class="p">ของใช้ในบ้าน</span><span class="s">생활용품</span></span><span class="tag">soon</span></span>
+      <span class="btn soon" title="준비 중 / เร็ว ๆ นี้"><span class="ic">💊</span><span class="txt"><span class="p">วิตามิน · อาหารเสริม</span><span class="s">비타민 · 건강식품</span></span><span class="tag">soon</span></span>
+      <span class="btn soon" title="준비 중 / เร็ว ๆ นี้"><span class="ic">🇰🇷</span><span class="txt"><span class="p">สินค้าเกาหลีทั้งหมด</span><span class="s">한국 상품 전체보기</span></span><span class="tag">soon</span></span>
+  </div>
+</section>
+  <section class="grp">
+  <div class="grp-head"><span class="badge">한국 손님 · ลูกค้าเกาหลี</span><span class="grp-title">태국 상품 · 한국에서 배송<br><span class="grp-title-th">สินค้าไทย · จัดส่งในเกาหลี</span></span></div>
+  <div class="links">
+      <span class="btn soon" title="준비 중 / เร็ว ๆ นี้"><span class="ic">🥭</span><span class="txt"><span class="p">두리안 · 쿠팡</span><span class="s">ทุเรียน · Coupang</span></span><span class="tag">soon</span></span>
+      <span class="btn soon" title="준비 중 / เร็ว ๆ นี้"><span class="ic">🇹🇭</span><span class="txt"><span class="p">태국 상품 전체보기</span><span class="s">สินค้าไทยทั้งหมด</span></span><span class="tag">soon</span></span>
+  </div>
+</section>
+  <footer>
+    <a class="ig" href="https://instagram.com/ella_official?utm_source=linkbio&amp;utm_medium=bio&amp;utm_campaign=instagram" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg></a>
+    <span class="credit">ELLA OFFICIAL · KOREA ↔ THAILAND</span>
+  </footer>
+</main>
+</body>
+</html>
+
+<!doctype html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&family=Jost:wght@400;500&family=Noto+Sans+Thai:wght@500&family=Noto+Sans+KR:wght@500&display=swap">
+<style>
+  * { margin:0; box-sizing:border-box; }
+  html,body { width:1200px; height:480px; }
+  .banner {
+    width:1200px; height:480px; background:#f6f1ea; position:relative;
+    font-family:'Jost','Noto Sans KR','Helvetica Neue',Arial,sans-serif; color:#2e2a26;
+    display:flex; align-items:center; justify-content:center; overflow:hidden;
+  }
+  /* soft off-canvas accents */
+  .blob { position:absolute; border-radius:50%; }
+  .blob.a { width:520px; height:520px; right:-190px; top:-160px; background:#eaddd2; }
+  .blob.b { width:300px; height:300px; left:-120px; bottom:-140px;
+            background:radial-gradient(circle at 60% 40%, #ecd9c8, #f6f1ea 70%); }
+  .frame {
+    position:absolute; inset:26px; border:1px solid #cb9c86;
+  }
+  .frame::after { content:""; position:absolute; inset:6px; border:1px solid #e4d2c1; }
+  .stack { position:relative; z-index:2; display:flex; flex-direction:column;
+           align-items:center; text-align:center; gap:18px; }
+  .kicker { font-size:13px; letter-spacing:7px; color:#b5715e; }
+  .word { font-family:'Cormorant Garamond',Georgia,serif; font-weight:500;
+          font-size:104px; line-height:1; letter-spacing:16px; padding-left:16px; color:#2e2a26; }
+  .rule { width:70px; height:1px; background:#b5715e; margin:2px 0; }
+  .official { font-size:15px; letter-spacing:12px; color:#8a7d6e; padding-left:12px; }
+  .tag { font-size:13px; letter-spacing:4px; color:#5c554d; margin-top:6px; }
+  .foot { position:absolute; left:0; right:0; bottom:52px; z-index:2;
+          display:flex; align-items:center; justify-content:center; gap:22px;
+          font-size:12px; letter-spacing:3px; color:#8a7d6e; }
+  .foot .dot { width:4px; height:4px; border-radius:50%; background:#cb9c86; }
+  .scripts { font-family:'Noto Sans KR','Noto Sans Thai',sans-serif; font-weight:500;
+             letter-spacing:2px; color:#b5715e; }
+</style>
+<div class="banner">
+  <div class="blob a"></div>
+  <div class="blob b"></div>
+  <div class="frame"></div>
+  <div class="stack">
+    <div class="kicker">CURATED · CROSS&#8209;BORDER</div>
+    <div class="word">ELLA</div>
+    <div class="rule"></div>
+    <div class="official">OFFICIAL</div>
+    <div class="tag">MOVE WELL &nbsp;&middot;&nbsp; LIVE WELL</div>
+  </div>
+  <div class="foot">
+    <span class="scripts">한국</span>
+    <span class="dot"></span>
+    <span>KOREA &#8596; THAILAND</span>
+    <span class="dot"></span>
+    <span class="scripts">ประเทศไทย</span>
+  </div>
+</div>
